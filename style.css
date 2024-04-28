@@ -103,6 +103,7 @@ header{
     align-items: center;
     grid-template-columns: repeat(2,1fr);
 }
+
 .text h1{
     font-size: 3.5rem;
     letter-spacing: 2px;
@@ -384,7 +385,7 @@ font-size: 1rem;
 }
 @media(max-width:881px){
     .home{
-        background-position: left;
+        background:#eeeff1;
     }
     .form-container form{
         bottom:0.2rem;
