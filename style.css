@@ -45,7 +45,7 @@ header{
     padding: 15px 100px
 }
 .logo img{
-    width: 40px;
+    width: 120px;
 }
 .navbar{
     display: flex;
@@ -242,13 +242,13 @@ font-size: 1rem;
     border-radius: 0.5rem;
     margin:1rem 0 1rem;
 }
-.services-container .box h3{
-    font-weight: 500;
+.services-container .box .h3{
+    font-weight: 600;
 }
 .services-container .box .h2{
     font-size: 1.1rem;
     font-weight: 600;
-    color: var(--main-color);
+    color: #135D77;
     margin:0.2rem 0 0.5rem;
 }
 .services-container .box .h2 span{
