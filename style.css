@@ -280,7 +280,7 @@ font-size: 1rem;
 }
 .about-text span{
     font-weight: 500;
-    color: var(--main-color);
+    color: #135D77;
     text-transform: uppercase;
 }
 .about-text p{
@@ -537,7 +537,7 @@ font-size: 1rem;
 	grid-gap:20px;
 	margin-top:20px;
 }
-.contact h3{
+.contact h2{
 	color:#0e3959;
 	font-weight: 500;
 	font-size: 1.4em;
@@ -614,7 +614,7 @@ font-size: 1rem;
 }
 /* Info */
 .contact-section .info{
-	background: var(--main-color);
+	background:#135D77;
 
 }
 .contact-section .info h3{
